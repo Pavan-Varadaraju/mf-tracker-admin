@@ -1,0 +1,48 @@
+{
+  "users": [
+    { "FullName": "Ganu", "id": "147" },
+    { "FullName": "Manju", "id": "258" },
+    { "FullName": "Pavan", "id": "369" },
+    { "FullName": "Puni", "id": "456" },
+    { "FullName": "Santhu", "id": "789" }
+  ],
+
+  "Portfolio": [
+    {
+      "FundName": "Quant Tax Plan",
+      "FundId": 120823,
+      "Transactions": [
+        {
+          "Date": "15/07/2021",
+          "InvestmentPrice": 213.01,
+          "Quantity": 16.43,
+          "InvestedAmount": 3500
+        },
+        {
+          "Date": "10/06/2021",
+          "InvestmentPrice": 205.34,
+          "Quantity": 17.044,
+          "InvestedAmount": 3500
+        }
+      ]
+    },
+    {
+      "FundName": "PGIM India Flexi Cap Fund",
+      "FundId": 120823,
+      "Transactions": [
+        {
+          "Date": "15/07/2021",
+          "InvestmentPrice": 26.59,
+          "Quantity": 150.425,
+          "InvestedAmount": 4000
+        },
+        {
+          "Date": "10/06/2021",
+          "InvestmentPrice": 25.45,
+          "Quantity": 157.163,
+          "InvestedAmount": 4000
+        }
+      ]
+    }
+  ]
+}
