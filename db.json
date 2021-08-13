@@ -61,6 +61,24 @@
           "InvestedAmount": 4000
         }
       ]
+    },
+    {
+      "FundName": "Quant Active Fund",
+      "FundId": 120823,
+      "Transactions": [
+        {
+          "Date": "15/07/2021",
+          "InvestmentPrice": 26.59,
+          "Quantity": 150.425,
+          "InvestedAmount": 4000
+        },
+        {
+          "Date": "10/06/2021",
+          "InvestmentPrice": 25.45,
+          "Quantity": 157.163,
+          "InvestedAmount": 4000
+        }
+      ]
     }
   ]
 }
