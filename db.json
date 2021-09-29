@@ -25,22 +25,22 @@
           "InvestedAmount": 3500
         }
       ]
-    },    
+    },
     {
       "FundName": "Quant Small Cap Fund",
       "FundId": 120828,
       "Transactions": [
         {
           "Date": "13/07/2021",
-          "InvestmentPrice": 140,
+          "InvestmentPrice": 126.22,
           "Quantity": 102.99,
-          "InvestedAmount": 14418
+          "InvestedAmount": 13000
         },
         {
           "Date": "19/07/2021",
-          "InvestmentPrice": 150,
+          "InvestmentPrice": 126.47,
           "Quantity": 434.87,
-          "InvestedAmount": 65230
+          "InvestedAmount": 55000
         }
       ]
     },
