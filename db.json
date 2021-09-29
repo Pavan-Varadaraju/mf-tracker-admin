@@ -31,16 +31,16 @@
       "FundId": 120828,
       "Transactions": [
         {
-          "Date": "15/07/2021",
-          "InvestmentPrice": 26.59,
-          "Quantity": 150.425,
-          "InvestedAmount": 4000
+          "Date": "13/07/2021",
+          "InvestmentPrice": 126.22,
+          "Quantity": 102.99,
+          "InvestedAmount": 13000
         },
         {
-          "Date": "10/06/2021",
-          "InvestmentPrice": 25.45,
-          "Quantity": 157.163,
-          "InvestedAmount": 4000
+          "Date": "19/07/2021",
+          "InvestmentPrice": 126.47,
+          "Quantity": 434.87,
+          "InvestedAmount": 55000
         }
       ]
     },
