@@ -1,24 +1,24 @@
 {
   "users": [
     {
-      "FullName": "Ganu",
+      "FullName": "Varadaraju",
       "id": "147",
       "Portfolio": [
         {
-          "FundName": "Quant Tax Plan",
-          "FundId": 120847,
+          "FundName": "PGIM India Midcap Opportunities Fund - Direct Growth",
+          "FundId": 125307,
           "Transactions": [
             {
-              "Date": "15/07/2021",
-              "InvestmentPrice": 213.01,
-              "Quantity": 16.43,
-              "InvestedAmount": 3500
+              "Date": "16/09/2021",
+              "InvestmentPrice": 46.99,
+              "Quantity": 319.201,
+              "InvestedAmount": 1500
             },
             {
-              "Date": "10/06/2021",
-              "InvestmentPrice": 205.34,
-              "Quantity": 17.044,
-              "InvestedAmount": 3500
+              "Date": "23/09/2021",
+              "InvestmentPrice": 46.44,
+              "Quantity": 538.302,
+              "InvestedAmount": 2500
             }
           ]
         },
@@ -45,16 +45,40 @@
           "FundId": 120823,
           "Transactions": [
             {
-              "Date": "15/07/2021",
-              "InvestmentPrice": 26.59,
-              "Quantity": 150.425,
-              "InvestedAmount": 4000
+              "Date": "02/04/2021",
+              "InvestmentPrice": 317.10,
+              "Quantity": 44.148,
+              "InvestedAmount": 14000
             },
             {
-              "Date": "10/06/2021",
-              "InvestmentPrice": 25.45,
-              "Quantity": 157.163,
-              "InvestedAmount": 4000
+              "Date": "08/05/2021",
+              "InvestmentPrice": 362.37,
+              "Quantity": 38.633,
+              "InvestedAmount": 14000
+            },
+            {
+              "Date": "07/06/2021",
+              "InvestmentPrice": 372.31,
+              "Quantity": 26.858,
+              "InvestedAmount": 10000
+            },
+            {
+              "Date": "23/09/2021",
+              "InvestmentPrice": 418.74,
+              "Quantity": 59.700,
+              "InvestedAmount": 25000
+            }
+          ]
+        },
+        {
+          "FundName": "ICICI Prudential Technology Fund - Direct Growth",
+          "FundId": 120594,
+          "Transactions": [
+            {
+              "Date": "23/09/2021",
+              "InvestmentPrice": 173.49,
+              "Quantity": 288.187,
+              "InvestedAmount": 50000
             }
           ]
         }
