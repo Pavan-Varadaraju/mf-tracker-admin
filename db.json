@@ -12,13 +12,13 @@
               "Date": "16/09/2021",
               "InvestmentPrice": 46.99,
               "Quantity": 319.201,
-              "InvestedAmount": 1500
+              "InvestedAmount": 15000
             },
             {
               "Date": "23/09/2021",
               "InvestmentPrice": 46.44,
               "Quantity": 538.302,
-              "InvestedAmount": 2500
+              "InvestedAmount": 25000
             }
           ]
         },
